@@ -1,8 +1,8 @@
 """
-Barrongo, Joshua Victor
-BCS34
+[REDACTED]
+[REDACTED]
 25/11/2023
-CSPC315
+CSPC31
 Greedy Algorithm - Activity Selection Problem
 """
 
